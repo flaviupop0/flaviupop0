@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hey there, I'm Flaviu! 👋
 
-<!--
-**flaviupop0/flaviupop0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+Welcome to my GitHub universe! I'm Flaviu, a software developer from Cluj-Napoca. My passion for technology fuels my quest for innovation and problem-solving. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Perl.
+- **Frameworks & Tools:** React.JS, Next.JS, React Native, Bootstrap.
+
+## 🚀 Featured Projects
+
+Here are some stellar projects I've crafted:
+
+1. **Your Favourite Dictionary**
+   - https://github.com/flaviupop0/your-favourite-dictionary
+2. **Foodify**
+   - https://github.com/flaviupop0/Foodify
+3. **Hangman**
+   - https://github.com/flaviupop0/hangman  
+
+## 📫 Get in Touch
+<h2>
+  Can't wait to connect with you! 
+  <a href="https://www.linkedin.com/in/pop-flaviu-a6b842231/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="pop-flaviu" height="30" width="30"/></a>
+</h2>
+
+
