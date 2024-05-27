@@ -15,9 +15,11 @@ Here are some stellar projects I've crafted:
 
 1. **Your Favourite Dictionary**
    - https://github.com/flaviupop0/your-favourite-dictionary
-2. **Foodify**
+2. **Foodify V2.0**
+   - https://github.com/flaviupop0/Foodify-V2.0
+3. **Foodify**
    - https://github.com/flaviupop0/Foodify
-3. **Hangman**
+4. **Hangman**
    - https://github.com/flaviupop0/hangman  
 
 ## 📫 Get in Touch
