@@ -6,8 +6,8 @@ Welcome to my GitHub universe! I'm Flaviu, a software developer from Cluj-Napoca
 
 ## 💻 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Perl.
-- **Frameworks & Tools:** React.JS, Next.JS, React Native, Bootstrap.
+- **Languages:** JavaScript, TypeScript.
+- **Frameworks, Tools & Important Skills:** React Native, React.JS, Next.JS, Bootstrap, REST APIS, GIT, REDUX Toolkit, StyleSheet, FireBase
 
 ## 🚀 Featured Projects
 
