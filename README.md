@@ -18,7 +18,7 @@ Here are some stellar projects I've crafted:
 
 2. **Your Favourite Dictionary**
    - https://github.com/flaviupop0/your-favourite-dictionary
-   - 
+     
 3. **Hangman**
    - https://github.com/flaviupop0/hangman  
 
