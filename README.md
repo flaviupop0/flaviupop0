@@ -13,11 +13,13 @@ Welcome to my GitHub universe! I'm Flaviu, a software developer from Cluj-Napoca
 
 Here are some stellar projects I've crafted:
 
-1. **Your Favourite Dictionary**
-   - https://github.com/flaviupop0/your-favourite-dictionary
-2. **Foodify V2.0**
+1. **Foodify V2.0**
    - https://github.com/flaviupop0/Foodify-V2.0
-4. **Hangman**
+
+2. **Your Favourite Dictionary**
+   - https://github.com/flaviupop0/your-favourite-dictionary
+   - 
+3. **Hangman**
    - https://github.com/flaviupop0/hangman  
 
 ## 📫 Get in Touch
